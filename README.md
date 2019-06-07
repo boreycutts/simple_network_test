@@ -3,5 +3,5 @@ This script is used to run a continuous test on your home network and display/sa
 
 `--address`: Sets the address used in the ping command in the test. Default = 8.8.8.8
 
-`--threshold`: Sets the packet loss percentage threshold used to determine if the output should be saved to `[timestamp]__errors.log`
+`--threshold`: Sets the packet loss percentage threshold used to determine if the output should be saved to `[timestamp]__errors.log` Default = 0%
 
